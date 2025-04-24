@@ -1,2 +1,2 @@
 This is a feature branch
-this will cause a conflict
+Main branch change on same line
